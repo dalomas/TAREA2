@@ -45,7 +45,15 @@ CAPÍTULO 4 - Energía y Potencia
 ![Energia y Potencia](https://user-images.githubusercontent.com/116813369/202604610-6ad51cec-2236-4524-bb97-47545a094a45.jpg)
 ![Potencias](https://user-images.githubusercontent.com/116813369/202604620-7d1df88b-a3f8-499b-9ada-fb6884f5f6b8.jpg)
 
+Conversión de energía y caída de voltaje en una resistencia
 
+Cuando la corriente circula por una resistencia se produce un cambio en la energía eléctrica, la cual se convierte en energía calorífica, provocada por las colisiones de los electrones libres dentro de la estructura atómica del material resistivo, cuando esto ocurre dentro de un circuito los electrones ceden algo de su energía en forma de calor conforme se mueven dentro del mismo. Esta disminución del voltaje a través del resistor provocada por una pérdida de energía se llama caída de voltaje, se indica mediante los signos + y -.
 
+![image](https://user-images.githubusercontent.com/116813369/202604735-b473f2d1-7038-46d6-838c-6148f460ebc5.png)
 
+Fuentes de potencia
+
+![image](https://user-images.githubusercontent.com/116813369/202604769-116f36ca-0799-43d2-a3ff-e9d3ad04f449.png)
+
+# 3. EJERCICIOS
 
