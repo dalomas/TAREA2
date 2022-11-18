@@ -41,3 +41,11 @@ Los miliamperes (mA) y microamperes (μA) se usan al momento de realizar el calc
 Para el cálculo de la resistencia se usan los intervalos de miliamperes (mA) y microamperes (μA).
 
 CAPÍTULO 4 - Energía y Potencia
+
+![Energia y Potencia](https://user-images.githubusercontent.com/116813369/202604610-6ad51cec-2236-4524-bb97-47545a094a45.jpg)
+![Potencias](https://user-images.githubusercontent.com/116813369/202604620-7d1df88b-a3f8-499b-9ada-fb6884f5f6b8.jpg)
+
+
+
+
+
