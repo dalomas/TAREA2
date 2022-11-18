@@ -57,3 +57,27 @@ Fuentes de potencia
 
 # 3. EJERCICIOS
 
+![Ejercicios Resueltos_001](https://user-images.githubusercontent.com/116813369/202638911-f621b014-9e0b-4fb1-b216-97bb5fefb943.png)
+![Ejercicios Resueltos_002](https://user-images.githubusercontent.com/116813369/202638929-412f5dea-cc7d-4867-b7f8-edfd3c20e303.png)
+![Ejercicios Resueltos_003](https://user-images.githubusercontent.com/116813369/202638938-219411c9-7db5-4e62-aa4a-c5c49ad6a5a5.png)
+![Ejercicios Resueltos_004](https://user-images.githubusercontent.com/116813369/202638941-9261190a-26ba-45ef-8f41-0bc1513c1ece.png)
+![Ejercicios Resueltos_005](https://user-images.githubusercontent.com/116813369/202638947-e8f3d04f-bd68-4695-a691-fec9ba6472ba.png)
+![Ejercicios Resueltos_006](https://user-images.githubusercontent.com/116813369/202638960-e9b1d875-7c33-4761-b3df-e6adf82dfa94.png)
+![Ejercicios Resueltos_007](https://user-images.githubusercontent.com/116813369/202639072-77d50bd6-b97c-457c-951c-bc4916b0aa86.png)
+![Ejercicios Resueltos_008](https://user-images.githubusercontent.com/116813369/202639096-29498117-90e2-42da-b33f-7057db5add65.png)
+![Ejercicios Resueltos_009](https://user-images.githubusercontent.com/116813369/202639101-ff79c8c7-9597-4294-9830-d234974b3825.png)
+![Ejercicios Resueltos_010](https://user-images.githubusercontent.com/116813369/202639105-e0566ea1-ab72-488e-be34-34f50fded9ec.png)
+
+# 4. VIDEO
+
+Enlace video subido a youtube:
+
+# 5. CONCLUSIONES
+
+En la presente tarea logramos cumplir con los objetivos planteados es analizar y reconocer la importancia de las leyes de los circuitos de los capitulos establecidos,se logro distinguir la diferencia y lo fundamental que es un circuito simple y como influye la "Ley de Ohm".
+Como conclusión final se comprobó la "Ley de Ohm" donde se establece que la corriente a través de un resistor es directamente proporcional a la diferencia de voltaje en los extremos del resistor e inversamente proporcional a la resistencia del resistor,es una herramienta básica para trabajar con los circuitos eléctricos por lo que se puede utilizar para encontrar un valor desconocido en una serie de circuitos y así facilitar el proceso.
+
+# 6. BIBLIOGRAFÍA
+
+loyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
+
